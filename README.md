@@ -1,5 +1,7 @@
 Hospital Workflow Optimization & Centralized EMR Architecture 
+
 ★ Lead Business Analyst: Rohit Shorey  
+
 ★ Domain: Healthcare Operations & Systems Engineering  
 
 ---
